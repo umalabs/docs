@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="60"
+   height="60"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg6710"
+   sodipodi:docname="api-to-api-with-shift.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs6704" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="229.91417"
+     inkscape:cy="185.10513"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata6707">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(0,-197)">
+    <path
+       style="opacity:1;fill:#2b4e83;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:22.33799934;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 49.857495,197.29706 A 49.703868,49.703868 0 0 0 0.34269628,246.99428 49.703868,49.703868 0 0 0 49.857495,296.68892 Z"
+       id="path7290"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/igor/IdeaProjects/umalabs/docs/static/favicons/favicon-128x128.png"
+       inkscape:export-xdpi="32.705662"
+       inkscape:export-ydpi="32.705662" />
+    <path
+       style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:22.33799934;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 49.857495,197.29706 v 99.39186 a 49.703868,49.703868 0 0 0 0.189137,0.009 49.703868,49.703868 0 0 0 49.703701,-49.70393 49.703868,49.703868 0 0 0 -49.703701,-49.70394 49.703868,49.703868 0 0 0 -0.189137,0.007 z"
+       id="path7273"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/igor/IdeaProjects/umalabs/docs/static/favicons/favicon-128x128.png"
+       inkscape:export-xdpi="32.705662"
+       inkscape:export-ydpi="32.705662" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="9.4520512"
+       y="263.39667"
+       id="text10092"
+       inkscape:export-filename="/home/igor/IdeaProjects/umalabs/docs/static/favicons/favicon-128x128.png"
+       inkscape:export-xdpi="32.705662"
+       inkscape:export-ydpi="32.705662"><tspan
+         sodipodi:role="line"
+         id="tspan10090"
+         x="9.4520512"
+         y="263.39667"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.27222061px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">API</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 2"
+     style="display:inline"
+     transform="translate(0,-197)" />
+</svg>
