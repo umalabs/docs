@@ -54,7 +54,7 @@ id = "UA-00000000-0"
 [languages]
 [languages.en]
 title = "Federizer"
-description = "API-to-API Security Framework"
+description = "Message Transfer Agent"
 languageName ="English"
 
 [markup]

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -9,38 +8,19 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="60"
-   height="60"
-   viewBox="0 0 100 100"
+   height="48"
+   viewBox="0 0 48 48"
+   width="48"
    version="1.1"
-   id="svg6710"
-   sodipodi:docname="api-to-api-with-shift.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
-  <defs
-     id="defs6704" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="229.91417"
-     inkscape:cy="185.10513"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     units="px" />
+   id="svg4525"
+   sodipodi:docname="umabox-logo2-final.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="umabox-558x558.png"
+   inkscape:export-xdpi="1116"
+   inkscape:export-ydpi="1116"
+   style="fill:#000000">
   <metadata
-     id="metadata6707">
+     id="metadata4531">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -51,47 +31,95 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs4529">
+    <linearGradient
+       id="linearGradient4609"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#3aabab;stop-opacity:1;"
+         offset="0"
+         id="stop4607" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview4527"
+     showgrid="false"
+     inkscape:zoom="9.8333332"
+     inkscape:cx="23.630708"
+     inkscape:cy="18.949799"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4525"
+     inkscape:pagecheckerboard="true" />
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="display:inline"
-     transform="translate(0,-197)">
-    <path
-       style="opacity:1;fill:#2b4e83;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:22.33799934;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-       d="M 49.857495,197.29706 A 49.703868,49.703868 0 0 0 0.34269628,246.99428 49.703868,49.703868 0 0 0 49.857495,296.68892 Z"
-       id="path7290"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/igor/IdeaProjects/umalabs/docs/static/favicons/favicon-128x128.png"
-       inkscape:export-xdpi="32.705662"
-       inkscape:export-ydpi="32.705662" />
-    <path
-       style="opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:22.33799934;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-       d="m 49.857495,197.29706 v 99.39186 a 49.703868,49.703868 0 0 0 0.189137,0.009 49.703868,49.703868 0 0 0 49.703701,-49.70393 49.703868,49.703868 0 0 0 -49.703701,-49.70394 49.703868,49.703868 0 0 0 -0.189137,0.007 z"
-       id="path7273"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/igor/IdeaProjects/umalabs/docs/static/favicons/favicon-128x128.png"
-       inkscape:export-xdpi="32.705662"
-       inkscape:export-ydpi="32.705662" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="9.4520512"
-       y="263.39667"
-       id="text10092"
-       inkscape:export-filename="/home/igor/IdeaProjects/umalabs/docs/static/favicons/favicon-128x128.png"
-       inkscape:export-xdpi="32.705662"
-       inkscape:export-ydpi="32.705662"><tspan
-         sodipodi:role="line"
-         id="tspan10090"
-         x="9.4520512"
-         y="263.39667"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.27222061px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">API</tspan></text>
+     id="g3754"
+     transform="matrix(1.1631538,0,0,1.1631538,-10.012693,-6.5943787)">
+    <rect
+       style="opacity:1;fill:#83a4d6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:106.42191315;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect7899-6"
+       width="31.554016"
+       height="22.802902"
+       x="2.0226173"
+       y="22.402225"
+       inkscape:export-xdpi="658.28571"
+       inkscape:export-ydpi="658.28571"
+       transform="rotate(-20.244153)" />
+    <g
+       style="fill:#002244;fill-opacity:1"
+       transform="matrix(2.0085326,0,0,2.0085326,-4.4302112,-7.2373631)"
+       id="g1411">
+      <path
+         d="M 6.6924852,13.422195 10.832222,24.694372 25.932915,19.161 21.812616,7.8997346 Z m 17.7765608,5.050287 -12.972297,4.729399 -2.7448905,-7.528974 8.3185265,2.876071 4.653769,-7.605471 z m -7.922447,-1.3602 -8.3437178,-2.94517 12.9722948,-4.7293994 z"
+         id="path4523-4-5-8"
+         style="fill:#002244;fill-opacity:1;stroke:none;stroke-width:0.83160144;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:export-xdpi="658.28571"
+         inkscape:export-ydpi="658.28571" />
+      <path
+         style="fill:#002244;fill-opacity:1;fill-rule:evenodd;stroke:#002244;stroke-width:1.15426469;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 10.748419,23.375617 3.897292,-6.721644"
+         id="path4550"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="658.28571"
+         inkscape:export-ydpi="658.28571" />
+      <path
+         style="fill:#002244;fill-opacity:1;stroke:#002244;stroke-width:1.15426469;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 24.983506,18.088597 17.67459,15.452478"
+         id="path4550-7"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="658.28571"
+         inkscape:export-ydpi="658.28571" />
+    </g>
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="Layer 2"
-     style="display:inline"
-     transform="translate(0,-197)" />
+  <circle
+     style="fill:#336161;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+     id="path4597"
+     cx="37.35743"
+     cy="32.534916"
+     r="10.642556" />
+  <circle
+     style="fill:#87d6d6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.11333333;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+     id="path6085"
+     cx="37.321472"
+     cy="32.498951"
+     r="7.9459629" />
+  <path
+     style="fill:none;stroke:#336161;stroke-width:2.43600011;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 32.434313,31.148463 3.326856,4.590542 6.543582,-7.697235"
+     id="path6118"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc" />
 </svg>

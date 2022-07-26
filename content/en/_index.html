@@ -4,12 +4,17 @@ linkTitle = "Federizer"
 
 +++
 
-{{< blocks/cover title="API-to-API Security Framework" image_anchor="top" height="full" color="orange" >}}
+{{< blocks/cover title="Message Transfer Agent" image_anchor="top" height="full" color="orange" >}}
 <div class="mx-auto">
 	<a class="btn btn-lg btn-secondary mr-3 mb-4" href="https://iam.federizer.org/auth/realms/demo/protocol/openid-connect/auth?client_id=account">
 		Sign up to demo! <i class="fas fa-sign-in-alt ml-2 "></i>
 	</a>
-	<p class="lead mt-5">Federizer helps organizations take control of API-to-API communication through the advanced authentication and authorization mechanism—<a href="https://github.com/umalabs/identity-propagation-and-assertions" style="color:rgb(113, 255, 160)">Identity Propagation and Assertions</a>.</p>
+	<p class="lead mt-5">Federizer is a message transfer agent (MTA) that transfers arbitrary messages from one
+		computer to another using the <a
+		href="https://grpc.io/"
+		style="color:rgb(113, 255, 160)">gRPC framework</a>. The MTA uses a client authentication mechanism — <a
+			href="https://github.com/umalabs/identity-propagation-and-assertions"
+			style="color:rgb(113, 255, 160)">mTLS certificate-bound access tokens issued by the Security Token Service (STS)</a> — to convey the user's security context alongside	messages between computers. This concept is generally applicable to store-and-forward and cut-through forwarding systems. In the long run, Federizer may be suitable as a potential replacement for current SMTP MTAs.</p>
 	{{< blocks/link-down color="info" >}}
 </div>
 {{< /blocks/cover >}}
